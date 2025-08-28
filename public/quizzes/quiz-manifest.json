@@ -1,0 +1,14 @@
+{
+  "quizzes": [
+    {
+      "id": "Artificial Intelligence Practice MCQ",
+      "title": "Artificial Intelligence Practice MCQ",
+      "description": "Core ML algorithms and concepts",
+      "file": "Artificial Intelligence Practice MCQ.json",
+      "category": "AI", 
+      "difficulty": "Intermediate",
+      "questions": 36,
+      "icon": "🤖"
+    }
+  ]
+}
