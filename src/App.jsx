@@ -17,7 +17,7 @@ function App() {
   const fileInputRef = useRef(null);
   const mainFileInputRef = useRef(null);
 
-  // Load available quizzes from manifest
+  // Load available quizzes  from manifest
   useEffect(() => {
     const loadAvailableQuizzes = async () => {
       setIsLoadingQuizzes(true);
